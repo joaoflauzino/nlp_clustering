@@ -4,7 +4,7 @@ Project whose the aim is to identify groups in a document text.
 
 # Activity Status: 
 
-Under Development
+Under Development. This code was used just for test the algorithm.
 
 ## Getting Started/Requirements/Prerequisites/Dependencies
 
