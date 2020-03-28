@@ -1,6 +1,10 @@
 # nlp_clustering
 
-Project whose the aim is to identify groups in a document text.
+Project whose the aim is to identify groups in a document text. 
+
+# Activity Status: 
+
+Under Development
 
 ## Getting Started/Requirements/Prerequisites/Dependencies
 
